@@ -2,7 +2,7 @@
 An Android application built using Java and Android Studio that allows users to add, update, delete, and search contacts. 
 This project demonstrates clean architecture, OOP concepts, and basic CRUD operations.
 
-# Features
+## Features
 Add new contacts
 Delete contacts
 Search contacts by name/number
