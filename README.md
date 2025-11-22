@@ -28,8 +28,7 @@ Intents and Activities to move between screens like “Add Contact” and “Vie
 The UI updates automatically whenever a contact is changed.
 
 ## Images
-<img src="https://github.com/user-attachments/assets/ce36f6c2-7f0e-40ee-8dbb-8f1ff3e9266f" width="300"/>
-<img src="https://github.com/user-attachments/assets/21eb2d5a-6598-4053-b349-5829cebc75be" width="300"/>
-<img src="https://github.com/user-attachments/assets/b32da947-cffa-4d6e-8354-ae548b0ccfd3" width="300"/>
-<img src="https://github.com/user-attachments/assets/1b2e94c4-77bd-45be-af6f-66e2d04768a2" width="300"/>
-<img src="https://github.com/user-attachments/assets/bd3f85ae-91cb-46a2-afb1-a18c089fbdd7" width="300"/>
+<img src="https://github.com/user-attachments/assets/ce36f6c2-7f0e-40ee-8dbb-8f1ff3e9266f" width="200"/>
+<img src="https://github.com/user-attachments/assets/21eb2d5a-6598-4053-b349-5829cebc75be" width="200"/>
+<img src="https://github.com/user-attachments/assets/b32da947-cffa-4d6e-8354-ae548b0ccfd3" width="200"/>
+<img src="https://github.com/user-attachments/assets/1b2e94c4-77bd-45be-af6f-66e2d04768a2" width="200"/>
